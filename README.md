@@ -39,6 +39,11 @@ This is a one-time snapshot of a workflow that was validated in practice.
 It is not meant to be a long-term maintained framework.
 它並非設計為長期維護的框架或產品。
 
+```markdown
+## Repository structure  
+## 專案結構
+
+```text
 explorer-gpt-template/
 ├── README.md                    # This file (English introduction)
 │                               # 本檔（英文介紹）
@@ -49,9 +54,8 @@ explorer-gpt-template/
 ├── LICENSE                      # MIT License
 │                               # MIT 授權
 └── examples/
-    ├── polars_low_tier_extraction.md
-    └── polars_high_tier_evaluation.md
-XPLORER_GPT.md
+    ├── Polars_Design_Pattern_Analysis.md
+    └── Polars_High_Level_Design_Evaluation.md
 核心流程文件
 
 The core workflow: roles, phases, rules, and prompts for Explorer GPT.
