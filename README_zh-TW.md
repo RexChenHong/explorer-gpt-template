@@ -41,6 +41,8 @@ explorer-gpt-template/
     ├── polars_low_tier_extraction.md
     └── polars_high_tier_evaluation.md
 EXPLORER_GPT.md
+```
+
 核心文件，定義：
 
 角色分工（你、終端機工具、低階模型、高階模型）
